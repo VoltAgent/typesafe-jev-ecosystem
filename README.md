@@ -110,6 +110,7 @@ Open-weight and open-source models that reproduce or extend the System One / Jev
 - [**djev**](https://github.com/mmastrac/djev) ★ 113 - Jev-style structured decisions on DiffusionGemma: the example server from vLLM PR 57250
 - [**laya-server**](https://github.com/1Panel-dev/laya-server) ★ 96 - A self-hosted API and web interface for Laya’s structured decision models, compatible with the TypeSafe Jev API format
 - [**open-jev-fast**](https://github.com/lyuyiqi/open-jev-fast) ★ 90 - Faster inference backend for Open-Jev-27B: fused CUDA kernels, prefix tree, CUDA Graphs (B300, bf16)
+- [**Phocinae-Largha-150M-v1**](https://github.com/Phocinae/Phocinae-Largha-150M-v1) ★ 75 - Bilingual (EN/ZH) 144.3M open decision model: noul / choice / score answers with calibrated probabilities, served locally behind a TypeSafe-compatible SystemOne API
 - [**JevAny**](https://github.com/SimpleJev/JevAny) ★ 70 - Open infrastructure for training, evaluating, and deploying System 1 decision models across language and multimodal backbones
 - [**stuntd**](https://github.com/bladedevoff/stuntd) ★ 69 - Local proxy that learns your app's typed LLM decisions and answers them with a Laya head. Jev and OpenAI compatible
 - [**JevEmbed**](https://github.com/HITsz-TMG/JevEmbed) ★ 66 - Meet JevEmbed — turn embeddings into decisions. Choose, score, and judge with your choice of embedding model
